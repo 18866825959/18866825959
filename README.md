@@ -54,17 +54,7 @@
 🎯 目标：好好学习、好好生活
 
 🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
-<!-- 外层 div：控制整体的上下间距 -->
-<div style="margin: 10px 0">  
-  <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:y18866825959@gmail.com">  
-    <!-- 链接里的图片：邮箱徽章 -->
-    <img 
-      src="https://img.shields.io/badge/452229648%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    >  
-  </a>  
-</div>
+
 
 <!-- 可爱工具图标：放在像素小人下方右侧 -->
 <div align="left" style="margin-right: 20px; margin-top: 10px;">
