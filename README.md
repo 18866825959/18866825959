@@ -57,19 +57,11 @@
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:452229648@qq.com">  
+  <a href="mailto:y18866825959@gmail.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
       src="https://img.shields.io/badge/452229648%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
-    >  
-  </a>  
-  <!-- 第二个链接：力扣跳转 -->
-  <a href="https://leetcode.com/u/seed123-psy/">  
-    <!-- 链接里的图片：力扣徽章 -->
-    <img 
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
-      alt="LeetCode"
     >  
   </a>  
 </div>
